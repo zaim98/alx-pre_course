@@ -1,2 +1,1 @@
-My first readme
-eng. zaciimka
+I'm new sofwtware engineer
